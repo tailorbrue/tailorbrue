@@ -35,7 +35,7 @@
 
 <p align="center">
 <a href="https://www.tailorbrue.com/"><img alt="Website" src="https://img.shields.io/badge/Website-tailorbrue.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://tailorbrue.github.io/"><img alt="Homepage" src="https://img.shields.io/badge/Website-tailorbrue.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://tailorbrue.github.io/"><img alt="Homepage" src="https://img.shields.io/badge/Homepage-tailorbrue.github.io-blue?style=flat-square&logo=google-chrome"></a>
 <a href="mailto:tailorbrue@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tailorbrue@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
