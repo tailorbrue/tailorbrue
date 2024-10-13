@@ -11,7 +11,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![GaussDB](https://img.shields.io/badge/-GaussDB-333333?style=flat&logo=mongodb)
