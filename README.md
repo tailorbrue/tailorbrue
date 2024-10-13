@@ -2,8 +2,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🌱 &nbsp; Major in Computer Vision.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Electronic Science and Technology of China.
+- 🌱 &nbsp; Exploring in Computer Vision tasks, supervised by [Prof. Shuaicheng Liu](www.liushuaicheng.org).
+- 🎓 &nbsp; Undergraduate student in Electronic Science and Technology of China, majoring in Computer Science and Mathematics.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -22,14 +22,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<br/>
-
-<a href="https://github.com/tailorbrue">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tailorbrue&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tailorbrue&theme=buefy&layout=compact" />
-</a>
-
-<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tailorbrue&layout=compact)](https://github.com/tailorbrue)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
