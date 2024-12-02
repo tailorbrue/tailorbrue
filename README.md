@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🌱 &nbsp; Exploring in Computer Vision tasks, supervised by [Prof. Shuaicheng Liu](http://www.liushuaicheng.org).
-- 🎓 &nbsp; Undergraduate student in Electronic Science and Technology of China, majoring in Computer Science and Mathematics.
+- 🎓 &nbsp; Undergraduate student in Yingcai Honors College of UESTC, majoring in Computer Science and Mathematics.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
