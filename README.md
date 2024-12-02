@@ -1,7 +1,6 @@
 <h3> &nbsp;About Me </h3>
 
-- &nbsp; Exploring in Computer Vision, supervised by [Prof. Shuaicheng Liu](http://www.liushuaicheng.org).
-- &nbsp; Undergraduate student in Yingcai Honors College of UESTC, majoring in Computer Science and Mathematics.
+I'm an undergraduate student in Yingcai Honors College of UESTC, supervised by [Prof. Shuaicheng Liu](http://www.liushuaicheng.org).
 
 <h3> &nbsp;Tech Stack</h3>
 
