@@ -24,25 +24,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tailorbrue&layout=compact)](https://github.com/tailorbrue)
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Contact Me </h3>
 
 <p align="center">
-<a href="https://www.tailorbrue.com/"><img alt="Website" src="https://img.shields.io/badge/Website-tailorbrue.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://scholar.google.com/citations?user=_vltU1UAAAAJ&hl=en&authuser=1"><img alt="Google Scholar" src="https://img.shields.io/badge/GS-WangZiyi-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://tailorbrue.github.io/"><img alt="Homepage" src="https://img.shields.io/badge/Homepage-tailorbrue.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.tailorbrue.com/"><img alt="Blogs" src="https://img.shields.io/badge/Website-tailorbrue.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="mailto:tailorbrue@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tailorbrue@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-<!--
-**tailorbrue/tailorbrue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
