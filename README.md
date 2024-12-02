@@ -1,11 +1,9 @@
-<h2> Hey there! I'm Tailorbrue.</h2>
+<h3> &nbsp;About Me </h3>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+- &nbsp; Exploring in Computer Vision, supervised by [Prof. Shuaicheng Liu](http://www.liushuaicheng.org).
+- &nbsp; Undergraduate student in Yingcai Honors College of UESTC, majoring in Computer Science and Mathematics.
 
-- 🌱 &nbsp; Exploring in Computer Vision tasks, supervised by [Prof. Shuaicheng Liu](http://www.liushuaicheng.org).
-- 🎓 &nbsp; Undergraduate student in Yingcai Honors College of UESTC, majoring in Computer Science and Mathematics.
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -24,7 +22,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tailorbrue&layout=compact)](https://github.com/tailorbrue)
 
-<h3> 🤝🏻 &nbsp;Contact Me </h3>
+<h3> &nbsp;Contact Me </h3>
 
 <p align="center">
 <a href="https://scholar.google.com/citations?user=_vltU1UAAAAJ&hl=en&authuser=1"><img alt="GS" src="https://img.shields.io/badge/Google&nbsp;Scholar-Ziyi&nbsp;Wang-blue?style=flat-square&logo=google-chrome"></a>
