@@ -27,7 +27,7 @@
 <h3> 🤝🏻 &nbsp;Contact Me </h3>
 
 <p align="center">
-<a href="https://scholar.google.com/citations?user=_vltU1UAAAAJ&hl=en&authuser=1"><img alt="GS" src="https://img.shields.io/badge/Google&nbspScholar-Ziyi&nbspWang-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://scholar.google.com/citations?user=_vltU1UAAAAJ&hl=en&authuser=1"><img alt="GS" src="https://img.shields.io/badge/Google&nbsp;Scholar-Ziyi&nbsp;Wang-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://tailorbrue.github.io/"><img alt="Homepage" src="https://img.shields.io/badge/Homepage-tailorbrue.github.io-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.tailorbrue.com/"><img alt="Blogs" src="https://img.shields.io/badge/Website-tailorbrue.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="mailto:tailorbrue@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tailorbrue@gmail.com-blue?style=flat-square&logo=gmail"></a>
